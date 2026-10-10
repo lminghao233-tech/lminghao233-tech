@@ -1,12 +1,16 @@
-# Liu Minghao
+# Liu Minghao / 刘明浩
 
-AI/LLM application engineer focused on building agent systems that are
-grounded, testable, and safe to operate.
+**AI / LLM Application Engineer**
 
-I work mainly with Python, FastAPI, retrieval-augmented generation, tool
-calling, evaluation pipelines, and platform automation. My projects keep
-safety-critical decisions in deterministic code while using LLMs for
-reasoning and explanation.
+我专注于构建有证据、可测试、能够安全执行的 Agent 系统。主要使用
+Python、FastAPI、RAG、工具调用、评测流水线和平台自动化；让确定性代码负责
+高风险决策，让模型负责推理、协作与解释。
+
+I build grounded, testable agent systems with explicit safety boundaries.
+Deterministic code owns high-risk decisions; LLMs assist with reasoning,
+orchestration, and explanation.
+
+**[Personal portfolio / 个人作品集](https://lminghao233-tech.github.io)**
 
 ## Featured projects
 
